@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<HTML>
+<HEAD>
+<TITLE>mes contactes</TITLE>
+</HEAD>
+<body>
+<!--MON PREMIER FICHIER -->
+<p> Bonjour Mesdames et Monsieur !</p><br />
+<h1>Pour me contacter</h1>
+<uL>
+<li>Nom:SOw</li>
+<li>Prenom:Mamadou oury</li>
+<li>Adresse electronique: sowoury91@gmail.com</li>
+<li>Fonction: Conseiller/aide client</li>
+</uL>
+<a href="index.html">Page index</a>
+</body>
+</HTML>
